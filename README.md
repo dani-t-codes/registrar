@@ -133,7 +133,7 @@ Create a .gitignore file and add the following files & folders to it:
 
 ## Known bugs
 
-No known bugs as of now.
+No known bugs as of now. [Please report any bugs found here.](https://github.com/dani-t-codes/registrar/issues)
 
 ### Legal, or License
 
